@@ -1,16 +1,17 @@
-### Hi there 👋
 
-<!--
-**Hachimi95/Hachimi95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">  <img src="https://i.ibb.co/wRwNx0V/YASgit.png" alt="Banner Image" width="400"> </p>
 
-Here are some ideas to get you started:
+# 👋 Hey there, I'm Yassine
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A student with a passion for cybersecurity, on a journey to secure the digital world with love and commitment;) 💻❤️
+
+- 🎓 5th year Cyber Security Student @  **Euromed University of Fez**
+- 🔭 I’m currently working on  **SecureDNS** - Cryptographically Enhanced Domain Name System
+- 🚩 Active CTF player
+- 💬 Ask me about  **anything I know. I would be glad to share what I know with you**
+- 📫 How to reach me  **hachimi.yassine95@gmail.com**
+
+
+
+
+
